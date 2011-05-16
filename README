@@ -1,0 +1,8 @@
+OverKill
+(c) Renaissance Insurance, 2011
+
+Closes the active connections, if they reached the limit (10 connections on Windows XP).
+
+Usage:
+ overkill.exe /install
+ overkill.exe /remove
